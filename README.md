@@ -12,5 +12,3 @@
 - git stash 
 - git revert
 - git pull request
-
-Modelo de um portfolio.
